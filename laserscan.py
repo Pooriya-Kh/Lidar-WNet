@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-# This file is covered by the LICENSE file in the root of this project.
+# code borrowed from https://github.com/Halmstad-University/SalsaNext/tree/master/train
+
 import time
 
 import numpy as np
